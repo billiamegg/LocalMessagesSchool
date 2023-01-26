@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           <h2 class="text">Potato Lord by: hayden</h2>
           Hi,
+        </p>
+        <p>
           I like turtles,
           I am Him,
           Dollie stinks,
@@ -26,7 +28,7 @@ export default function Home() {
           I like bals,
           Connow Wayman is him 😀,
           Suck,
-          Pizza, by: hayden,
+          Pizza, by: hayden, 
         </p>
       </main>
 
