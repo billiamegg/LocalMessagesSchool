@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hi Big Ben!!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <p class="text">Potato Lord by: hayden</p>
         </p>
       </main>
 
