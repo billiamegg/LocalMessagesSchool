@@ -30,6 +30,7 @@ export default function Home() {
         <p>Connor Wayman is him 😀,</p>
         <p>Suck,</p>
         <p>Pizza, by: hayden</p>
+        <p>https://www.graphicsfuel.com/10-free-polygon-backgrounds/</p>
     
       </main>
 
