@@ -13,7 +13,20 @@ export default function Home() {
       <main>
         <Header title="Hi Big Ben!!" />
         <p className="description">
-          <p class="text">Potato Lord by: hayden</p>
+          <h2 class="text">Potato Lord by: hayden</h2>
+          Hi,
+          I like turtles,
+          I am Him,
+          Dollie stinks,
+          Hey man, by: bently,
+          eat children,
+          hello,
+          I 💜 Walnuts,
+          ur ugly,
+          I like bals,
+          Connow Wayman is him 😀,
+          Suck,
+          Pizza, by: hayden,
         </p>
       </main>
 
