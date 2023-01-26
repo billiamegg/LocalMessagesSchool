@@ -25,6 +25,12 @@ export default function Home() {
         <p>eat children,</p>
         <p> hello,</p>
         <p>I 💜 Walnuts,</p>
+        <p> ur ugly,</p>
+        <p>I like bals,</p>
+        <p>Connow Wayman is him 😀,</p>
+        <p>Suck,</p>
+        <p>Pizza, by: hayden</p>
+    
       </main>
 
       <Footer />
