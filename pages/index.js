@@ -18,18 +18,13 @@ export default function Home() {
         </p>
         <p>
           I like turtles,
-          I am Him,
-          Dollie stinks,
-          Hey man, by: bently,
-          eat children,
-          hello,
-          I 💜 Walnuts,
-          ur ugly,
-          I like bals,
-          Connow Wayman is him 😀,
-          Suck,
-          Pizza, by: hayden, 
         </p>
+        <p>I am Him,</p>
+        <p>Dollie stinks,</p>
+        <p>Hey man, by: bently,</p>
+        <p>eat children,</p>
+        <p> hello,</p>
+        <p>I 💜 Walnuts,</p>
       </main>
 
       <Footer />
