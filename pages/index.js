@@ -26,7 +26,6 @@ export default function Home() {
         <p> hello,</p>
         <p>I 💜 Walnuts,</p>
         <p> ur ugly,</p>
-        <p>I like bals,</p>
         <p>Connor Wayman is him 😀,</p>
         <p>Suck,</p>
         <p>Pizza, by: hayden</p>
